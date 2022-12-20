@@ -3,7 +3,9 @@
 
 Cryptographic File System using AES - EAX mode
 
-
+<p align = "center">
+  <img alt="encrypter cmd line" src="https://github.com/thenithinbalaji/File-Encrypter/raw/main/assets/encrypter.png">
+</p>
 
 ## Documentation
 
@@ -19,9 +21,9 @@ If you want to work on this file refer installation.
 
 ## Installation
 
-pip3/pip install pycryptodome
-
 ```bash
-
+pip3/pip install pycryptodome
 ```
+
+
     
